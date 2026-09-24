@@ -14,6 +14,7 @@ export class AppService {
       title: 'gilford',
     },
     { id: 5, title: 'brian' },
+    { id: 6, title: 'bimto' },
   ];
 
   getNotes() {
